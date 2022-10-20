@@ -1,3 +1,5 @@
+:warning: This project is archived and the repository is no longer maintained. 
+
 # HTML Video Element: 
 **Proposal For Reintroduction of Media (and srcset/sizes) in Source Elements**
 
